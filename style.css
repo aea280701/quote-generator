@@ -16,10 +16,14 @@ body{
     border-radius: 10px;
     box-shadow: 0 10px 10px 10px rgba(0,0,0,0.3);
 }
-#quote{
+.quote{
     font-weight: 700;
     font-size: 2.75rem;
 }
+.long-quote{
+    font-size: 2rem;
+}
+
 #author{
     margin-top: 10px;
     font-size: 1.5rem;
@@ -66,7 +70,7 @@ body{
         font-size: 1.5rem;
     }
     .button{
-        font-size:1rem ;
+        font-size:1.2rem ;
     }
 
     .fa-quote-left{
